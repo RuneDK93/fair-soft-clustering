@@ -2,9 +2,9 @@
 
 ## Description
 Python implementation of the paper "Fair Soft Clustering". The paper involves algorithmic fairness for probabilistic (soft) cluster algorithms, such as a Gaussian mixture model (GMM). 
-The reposity includes an implementation of the proposed generalization of balance and entropy fairness metrics. 
+The repository includes an implementation of the proposed generalization of balance and entropy fairness metrics. 
 
-The repositofy also includes an implementation of a fairlet decomposition tailored to the GMM objective. This works by identifying fairlet members, which lie close in the space modeled by a GMM. This is achieved by minimizing model-weighted distances (MWDs) through a minimum clost flow (MCF) algorithm. 
+The repository also includes an implementation of a fairlet decomposition tailored to the GMM objective. This works by identifying fairlet members, which lie close in the space modeled by a GMM. This is achieved by minimizing model-weighted distances (MWDs) through a minimum clost flow (MCF) algorithm. 
 
 
 ## Experiments
