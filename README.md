@@ -22,3 +22,12 @@ Github: https://github.com/talwagner/fair_clustering
 The code from this work is included in this supplementary material under the name 'fairtree.py' to reproduce our experimental comparisons with the k-median decomposition.   
 
 The licenses for both of these code works are included under the name "LICENSE_fairlets" and "LICENSE_fairtree".
+
+## Dependencies
+
+numpy version 1.20.1
+scipy version 1.10.1
+sklearn version 1.2.0
+networkx version 2.5
+pandas version 1.3.3
+matplotlib version 3.3.2
