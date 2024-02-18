@@ -8,7 +8,7 @@ The repository also includes an implementation of a fairlet decomposition tailor
 
 
 ## Experiments
-To run the experiments use notebooks 'Bank', 'Diabetes' and 'Census'. Results are saved to 'results' directory and can inspected in 'Plots' notebook.
+To run the experiments use notebooks 'Bank', 'Diabetes' and 'Census'. Results are saved to 'results' directory and can inspected in 'Plots' notebook. Experiments have been run on an Intel 6 core i7, UHD 630 CPU laptop.
 
 ## Licenses
 
